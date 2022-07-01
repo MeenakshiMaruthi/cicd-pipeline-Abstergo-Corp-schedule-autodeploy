@@ -1,6 +1,6 @@
 # cicd-pipeline-Abstergo-corp-schedule-autodeploy
 
-This is a Abstergo-corp schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
+This is a Abstergo-corp schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities and also tutor ，on time delivery，100% trustworthy，monneyback.
 
 ## Running the app
 
