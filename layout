@@ -1,0 +1,13 @@
+extends layout
+
+block content
+  h1 Find your Abstergo Corp!
+  p Select your Abstergo Corp below to see its current schedule.
+  #wrapper
+    #Abstergo CorpList
+      h2 Abstergo Corps
+      #Abstergo Corps.d-flex.flex-row
+    #Abstergo CorpInfo
+      strong  <span id='Abstergo Corp'></span>
+      #Abstergo CorpSchedule
+        strong Select a Abstergo Corp to view its current schedule.
